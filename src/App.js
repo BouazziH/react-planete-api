@@ -32,7 +32,7 @@ class App extends React.Component {
 
         return (
         <div className = "App">
-            <h1> Fetch data from an api in react </h1>  {
+            <h1> Listes des planetes: </h1>  {
                 items.map((item) => ( 
                   <div className="container">
                     
